@@ -1,0 +1,23 @@
+Just type the number of the operation you want to perform and press enter. Do not enter anything other than numbers.
+1)Appointment of a new employee:
+You will be asked to enter informations of the employee. Some restrictions:
+Type Employee Number: Do not type anything other than integers
+Type Employee Type: Type 1 if employee is permanent and 0 if it’s temporary. Do not type any other number or program will crash.
+Type salary coefficient: Only enter numbers. Use “.” İnstead of “,” to seperate decimals 10.5 10,5
+Type birth date and Type appointment date: Enter the date as DD-MM-YYYY and press enter or the program will crush or not work as intended.
+
+2) Appointment of a transferred employee:
+Same rules apply here too. Additionally when asked for service length only enter integers. No other character.
+3) Updating the title and salary coefficient of an employee:
+All previous rules apply here too. When asked for setting new salary follow the rules in 1).
+4) Deletion of an employee and 5) Listing the information of an employee:
+Type Employee Number: Do not type anything other than integers.
+8) Listing employees appointed after a certain date:
+Use the date format in 1)
+9) Listing employees assigned in a given year:
+Just write an integer nothing more nothing less.
+10) Listing employees born before a certain date:
+Use the date format in 1)
+11) Listing employees born in a particular month:
+Enter a maximum of 2 digit month. Don’t use their names. For example: Type 12 and press enter for December, type 05/5 for May.
+After every operation you should get the first menu back. Don’t worry if you can’t see the results. It’s probably top of the menu.
