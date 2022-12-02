@@ -1,0 +1,6 @@
+The program reads two input files and creates an output file. First argument will be dpda file, second will be input characters file and final argument will be output file's name. Both of these files must be in .txt format. The output file that the program creates will be in .txt format also. Input file may have an empty line but other than that format must be exactly the same.
+? Q: is fixed and represents state list. First q after arrow is start state and must be written inside parantheses, other 2 are accepting states and must be written inside '[ ]'
+? A: is fixed and represents input characters. Input file can't contain any character that is not in here.
+? Z: is fixed and represents stack alphabet. Stack can only contain empty string and these characters.
+There shouldn't be any whitespace at the end of the lines. Only changeable things are characters between commas and parantheses. For example you can write q7 instead of q0 but you can't change Q: .
+Program will create given transition rules and create an output file showing what's happening behind the scenes step by step when we use given inputs to perform a stack automata.
