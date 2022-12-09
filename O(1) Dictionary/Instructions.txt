@@ -1,0 +1,5 @@
+insert(x1,x2):inserts word x1 with the meaning x2
+delete(x): deletes the word x
+search(x): returns x's meaning if x exists in dictionary
+list: lists all the words in the dictionary
+sample input and outputs are added
