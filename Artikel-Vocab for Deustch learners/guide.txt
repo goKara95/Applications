@@ -1,0 +1,5 @@
+fill in test.txt file with either verbs or words
+format for words:
+K artikel word meaning
+format for verben(you should give the verb for appropriate pronoun) :
+F ich du er/sie/es wir ihr Sie
